@@ -11,4 +11,4 @@
 
 <p><a href="https://msreeganesh.netlify.app"><img width="100%" src="assets/about.svg" alt="A polymath. A jack of all trades is a master of none, but oftentimes better than a master of one. I design the interface, build the engine underneath, train the model that makes it think and wire the circuit it runs on. IIT Bhubaneswar, class of ’26. Based in Bengaluru, always mid-build."></a></p>
 
-<p><a href="https://msreeganesh.netlify.app"><img width="26%" src="assets/link-portfolio.svg" alt="Portfolio"></a> <a href="https://github.com/MSreeGaneshNaik?tab=repositories"><img width="26%" src="assets/link-repos.svg" alt="All repositories"></a></p>
+<p><a href="https://msreeganesh.netlify.app"><img width="26%" src="assets/link-portfolio.svg" alt="Portfolio"></a> <a href="https://www.linkedin.com/in/m-sree-ganesh/"><img width="26%" src="assets/link-linkedin.svg" alt="LinkedIn"></a> <a href="https://github.com/MSreeGaneshNaik?tab=repositories"><img width="26%" src="assets/link-repos.svg" alt="All repositories"></a></p>
